@@ -1,0 +1,4 @@
+com\example\springibmmqdemo\SpringIbmmqDemoApplication.class
+com\example\springibmmqdemo\config\MQConfig.class
+com\example\springibmmqdemo\listener\MessageListener.class
+com\example\springibmmqdemo\controller\MessageController.class
