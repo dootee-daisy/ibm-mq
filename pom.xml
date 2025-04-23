@@ -8,7 +8,7 @@
   <artifactId>spring-ibmmq-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>spring-ibmmq-demo</name>
-  <description>Spring Boot 3 with IBM MQ</description>
+  <description>IBM MQ With Java 19</description>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
